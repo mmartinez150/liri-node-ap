@@ -1,0 +1,23 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "liri-node",
+  "main": "keys.js",
+  "scripts": {
+    "test": "error"
+  },
+  "repository": {
+    "type": "git",
+    "url": "liri-node-ap"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Mayra Martinez",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.85.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  }
+}
